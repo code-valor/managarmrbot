@@ -1,0 +1,17 @@
+{
+  "name": "managarmr",
+  "version": "1.0.0",
+  "description": "Managarmr Discord botu.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Valor",
+  "license": "ISC",
+  "dependencies": {
+    "@addict67/music-bot": "^1.2.0",
+    "discord.js": "^12.1.1",
+    "djs-commands": "^1.2.2",
+    "gamedig": "^2.0.20"
+  }
+}
